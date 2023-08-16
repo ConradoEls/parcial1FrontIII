@@ -1,0 +1,14 @@
+.card {
+  margin: 50px 90px 0 90px;
+  border: 1px solid white;
+  border-radius: 18px;
+  padding-top: 10px;
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
+.info span {
+  padding: 0 0 14px 12px;
+}
